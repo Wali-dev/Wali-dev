@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Wali
-#### Coder / Founder 
+## Hi there 👋, my name is Wali
+### Coder / Founder 
 ![Coder / Founder ](https://github.com/Wali-dev/Wali-dev/blob/main/cover.png)
 
 I code and solve problems. That's the only thing you need to know about me.
