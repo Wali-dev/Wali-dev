@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Wali
+## Hi there, I'm Cornell 👋 👨‍💻
 ### Coder / Founder 
 ![Coder / Founder ](https://github.com/Wali-dev/Wali-dev/blob/main/cover.png)
 
