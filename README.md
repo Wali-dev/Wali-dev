@@ -4,7 +4,11 @@
 
 I code and solve problems. That's the only thing you need to know about me.
 
-Skills: REACT / JS / PYTHON / NODE
+### Skills: 
+ #### 🐱‍🐉REACT  
+ #### 🐱‍🏍JS  
+ #### 🌹PYTHON 
+ #### 🤳NODE
 
 
 
