@@ -1,9 +1,10 @@
 ## Hi there, I'm Cornell 👋 👨‍💻
 ### Coder / Founder 
 ![Coder / Founder ](https://github.com/Wali-dev/Wali-dev/blob/main/cover.png)
-
-I code and solve problems. And I'm a cat.
 ![til](https://github.com/Wali-dev/Wali-dev/blob/main/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif)
+I code and solve problems. And I'm a cat.
+
+
 
 ### Skills: 
  #### 🐱‍🐉REACT 🐱‍🏍JS 🌹PYTHON 🤳NODE
