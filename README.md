@@ -1,5 +1,7 @@
-## Hi there, I'm Cornell 👋 👨‍💻
+## Hi there,👋 👨‍💻
 ### Coder / Founder 
+My name is Cornell and I'm a Electronics Engineering student from New Delhi. Here's some info about me!
+
 ![Coder / Founder ](https://github.com/Wali-dev/Wali-dev/blob/main/cover.png)
 
 <p>I code and solve problems. And I'm a cat.</p>
