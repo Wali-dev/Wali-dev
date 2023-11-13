@@ -10,10 +10,10 @@ My name is Cornell and I'm a Electronics Engineering student from New Delhi. <p>
 
 ### Skills: 
  #### 🐱‍🐉REACT 🐱‍🏍JS 🌹PYTHON 🤳NODE
+ 
 ### 🌱 Interests:
-
 Web development.
-Creating content (YouTube/Twitch).
+Cooking.
 
 
 
