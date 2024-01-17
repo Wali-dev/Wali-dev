@@ -8,7 +8,7 @@ My name is Cornell, an Electronics Engineering student from New Delhi and I code
 
 ![til](https://github.com/Wali-dev/Wali-dev/blob/main/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif)
 
-## 🐱‍🚀 Skills: 
+## 🐱‍🚀 Currently focused on: 
 ##### 🐱‍🐉REACT 
 ##### 🐱‍🏍JS 
 ##### 🌹PYTHON 
