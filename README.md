@@ -16,7 +16,7 @@ My name is Cornell, an Electronics Engineering student from New Delhi and I code
 
  
 ## 🌱 Interests:
-Web development.
+Web application.
 Cooking.
 
 
