@@ -1,6 +1,6 @@
-## Hii there,👋 👨‍💻
-### Coder / Founder 
-My name is Cornell, an Electronics Engineering student from New Delhi and I code.
+## Hii there,👋
+ 
+My name is Wali, an Electronics & Communicatioon Engineering student currently based on New Delhi and I code.
 
 ![Coder / Founder ](https://github.com/Wali-dev/Wali-dev/blob/main/cover.png)
 
